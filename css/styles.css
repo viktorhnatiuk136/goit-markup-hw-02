@@ -1,0 +1,54 @@
+body {font-family: "Roboto", "Raleway", sans-serif;
+    color: #434455;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 2%;}
+
+h1 {font-family: inherit;
+    color: white;
+font-weight: bold;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 2%;}
+
+h2 {font-family: inherit;
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;}
+
+ h3 {font-family: inherit;
+     font-weight: medium;
+     font-size: 20px;
+     letter-spacing: 2%;}
+
+p {font-family: inherit;
+    color: #8e8f99;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 4%;}
+
+.button {font-family: inherit;
+font-weight: medium;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 4%;
+background-color: #4d5ae5;
+cursor: pointer;}
+
+.button:hover {background-color: #404bbf;}
+
+.title {background-color: #2e2f42;}
+
+.team {background-color: #f4f4fd;}
+
+.footer {background-color: #2e2f42;}
+
+.link-studio:hover {color: #4d5ae5;}
+.link-studio:active {color: #404bbf;}
+.link:hover {color: #4d5ae5;}
+
+.address {color: inherit;}
+.address:hover {color: #4d5ae5;}
+
