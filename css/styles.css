@@ -11,7 +11,7 @@ letter-spacing: 2%;}
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
-letter-spacing: 3%;
+letter-spacing: 0.003em;
 text-transform: uppercase;}
 .logo-span {color: #2e2f42;}
 
@@ -40,8 +40,8 @@ letter-spacing: 4%;}
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
-    letter-spacing: 2%;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 
@@ -55,6 +55,25 @@ background-color: #4d5ae5;
 cursor: pointer;}
 .button:hover, .button:focus {background-color: #404bbf;}
 
+ .feature-h {
+    font-family: inherit;
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.feature-p {
+    font-family: inherit;
+    color:#434455;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+
 .team {background-color: #f4f4fd;}
 
 .footer {background-color: #2e2f42;}
@@ -64,12 +83,10 @@ cursor: pointer;}
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
-.link:hover, .link:active {color: #404bbf;}
+.link:hover, .link:focus {color: #404bbf;}
 
-.address {color: inherit;
-font-style: normal;
-letter-spacing: 2%;}
-.address:hover, .address:focus {color: #404bbf;}
+.address {font-style: normal;}
+
 
