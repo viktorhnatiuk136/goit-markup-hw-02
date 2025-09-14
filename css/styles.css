@@ -39,7 +39,7 @@ background-color: #4d5ae5;
 cursor: pointer;}
 .button:hover, .button:focus {background-color: #404bbf;}
 
-.feature-list .h3 {
+.section-h3 {
     font-family: inherit;
     color: #2e2f42;
     font-weight: 500;
