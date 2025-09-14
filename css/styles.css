@@ -11,16 +11,13 @@ letter-spacing: 2%;}
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
-letter-spacing: 0.003em;
+letter-spacing: 0.03em;
 text-transform: uppercase;}
-.logo-span {color: #2e2f42;}
+.logo-span {color: #f4f4fd;}
 
-h2 {font-family: inherit;
-    font-weight: bold;
-    font-size: 36px;
-    letter-spacing: 2%;}
 
- h3 {font-family: inherit;
+
+h3 {font-family: inherit;
      font-weight: medium;
      font-size: 20px;
      letter-spacing: 2%;}
@@ -55,7 +52,7 @@ background-color: #4d5ae5;
 cursor: pointer;}
 .button:hover, .button:focus {background-color: #404bbf;}
 
- .feature-h {
+ .section-h3 {
     font-family: inherit;
     color: #2e2f42;
     font-weight: 500;
@@ -64,7 +61,7 @@ cursor: pointer;}
     letter-spacing: 0.02em;
 }
 
-.feature-p {
+.section-p {
     font-family: inherit;
     color:#434455;
     font-weight: 500;
@@ -73,13 +70,24 @@ cursor: pointer;}
     letter-spacing: 0.02em;
 }
 
-
 .team {background-color: #f4f4fd;}
+
+.section-title {
+    font-family: inherit;
+    color: #2e2f42;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.team-li {background-color: #ffffff;}
 
 .footer {background-color: #2e2f42;}
 
-
-.link {color: #2e2f42;
+.link {color: #434455;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -89,4 +97,7 @@ cursor: pointer;}
 
 .address {font-style: normal;}
 
-
+.footer-text{font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
