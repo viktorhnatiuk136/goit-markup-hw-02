@@ -39,16 +39,7 @@ background-color: #4d5ae5;
 cursor: pointer;}
 .button:hover, .button:focus {background-color: #404bbf;}
 
-.section-h3 {
-    font-family: inherit;
-    color: #2e2f42;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-.section2-h3 {
+.h3 {
     font-family: inherit;
     color: #2e2f42;
     font-weight: 500;
