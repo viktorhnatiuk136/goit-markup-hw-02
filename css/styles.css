@@ -13,21 +13,7 @@ font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;}
-.logo-span {color: #f4f4fd;}
-
-
-
-h3 {font-family: inherit;
-     font-weight: medium;
-     font-size: 20px;
-     letter-spacing: 2%;}
-
-p {font-family: inherit;
-    color: #8e8f99;
-font-weight: 400;
-font-size: 12px;
-line-height: 14px;
-letter-spacing: 4%;}
+.logo-span {color: #2e2f42;}
 
 .title {
     background-color: #2e2f42;
@@ -52,7 +38,7 @@ background-color: #4d5ae5;
 cursor: pointer;}
 .button:hover, .button:focus {background-color: #404bbf;}
 
- .section-h3 {
+.section-h3 {
     font-family: inherit;
     color: #2e2f42;
     font-weight: 500;
@@ -87,7 +73,7 @@ cursor: pointer;}
 
 .footer {background-color: #2e2f42;}
 
-.link {color: #434455;
+.link {color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -97,7 +83,8 @@ cursor: pointer;}
 
 .address {font-style: normal;}
 
-.footer-text{font-weight: 400;
+.footer-text{ color: #f4f4fd;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
