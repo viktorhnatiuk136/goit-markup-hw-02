@@ -6,6 +6,10 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 2%;}
 
+ul {list-style-type: none;}
+
+a {text-decoration: none;}
+
 .logo {font-family: "Raleway", sans-serif;
     color: #4d5ae5;
 font-size: 18px;
@@ -20,7 +24,6 @@ text-transform: uppercase;}
     background-color: #2e2f42;
 }
 .title-text {
-    font-family: inherit;
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
@@ -40,7 +43,6 @@ cursor: pointer;}
 .button:hover, .button:focus {background-color: #404bbf;}
 
 .section-list-title {
-    font-family: inherit;
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
@@ -49,7 +51,6 @@ cursor: pointer;}
 }
 
 .section-p {
-    font-family: inherit;
     color:#434455;
     font-weight: 500;
     font-size: 16px;
@@ -62,7 +63,6 @@ cursor: pointer;}
 .team-list {background-color: #ffffff;}
 
 .section-title {
-    font-family: inherit;
     color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
